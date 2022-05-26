@@ -1070,3 +1070,7 @@ h4 {
     width:500px;
     margin:auto;
 }
+a:focus, a:hover
+{
+    border:#364577 3px solid;
+}
